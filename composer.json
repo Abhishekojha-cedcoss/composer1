@@ -1,7 +1,7 @@
 {
  "name": "abhishekojha-cedcoss/composer1",
     "description": "product data table",
-    "version" : "1.1",
+    "version" : "1.2",
     "require": {
         "php": ">=7.4"
     }
