@@ -1,0 +1,8 @@
+{
+ "name": "Abhishekojha-cedcoss/Composer-Task",
+    "description": "product data table",
+    "version" : "1.0",
+    "require": {
+        "php": ">=7.4"
+    }
+}
